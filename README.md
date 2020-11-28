@@ -1,5 +1,11 @@
 # todo
 
+A very simple Vue todo app for practice
+
+Live Demo:
+https://sharp-feynman-706a70.netlify.app
+
+
 ## Project setup
 ```
 npm install
